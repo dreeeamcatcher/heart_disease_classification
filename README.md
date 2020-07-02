@@ -1,6 +1,6 @@
 # Heart Disease Classifier: Project Overview
 
-Data Science example project using supervised learning for prediction heart disease (classification problem)
+Data Science project using supervised learning for prediction heart disease (classification problem)
 
 The project includes:
 * Data Exploration (EDA)
